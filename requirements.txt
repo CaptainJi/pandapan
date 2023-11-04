@@ -1,6 +1,6 @@
 pydantic~=1.10.13
 httpx~=0.25.1
-fastapi~=0.104.1
+fschat[model_worker]==0.2.29
 langchain~=0.0.330
 python-dotenv~=1.0.0
 cachetools~=5.3.2
